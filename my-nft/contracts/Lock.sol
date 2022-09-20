@@ -8,7 +8,7 @@ contract Lock {
     uint public unlockTime;
     address payable public owner;
 
-    event Withdrawal(uint amount, uint when);
+    event Withdrawal(uint amount1, uint when);
 
     constructor(uint _unlockTime) payable {
         require(
