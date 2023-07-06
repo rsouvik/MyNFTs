@@ -1,12 +1,12 @@
 # MyNFTs
 test nft minting etc.
 
-#Initialize
+# Initialize
 mkdir my-nft
 cd my-nft
 
-#npm
+# npm
 npm init
 
-#Install hardhat
+# Install hardhat
 npm install --save-dev hardhat
