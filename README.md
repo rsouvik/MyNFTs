@@ -3,6 +3,7 @@ test nft minting etc.
 
 # Initialize
 mkdir my-nft
+
 cd my-nft
 
 # npm
